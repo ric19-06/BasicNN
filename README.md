@@ -14,12 +14,12 @@ The project is intended for learning purposes, focusing on:
 ## Results
 
 ### Training Loss over Epochs
-<img src="results/loss_curves.png" width="700">
+<img src="results/loss_curves.png" width="600">
 
 This plot shows the loss progression of the neural network on the training dataset across epochs.
 
 ### Confusion Matrix on Test Set
-<img src="results/confusion_matrix_combined.png" width="700">
+<img src="results/confusion_matrix_combined.png" width="800">
 
 The confusion matrix summarizes the model's performance on the test set, showing correct and misclassified samples for each digit class.
 
@@ -45,7 +45,7 @@ The code assumes the standard IDX file format.
 
 - C++23 compatible compiler (g++, clang++)
 - CMake 3.10+
-- Python 3.12 (for visualization scripts)
+- Python 3.12
 
 ## Build
 
@@ -59,7 +59,7 @@ make
 ## Usage
 
 Run the main executable:  
-`.apps/main`  
+`.build/apps/main`  
 
 ## Disclaimer
 
