@@ -23,6 +23,21 @@ This plot shows the loss progression of the neural network on the training datas
 
 The confusion matrix summarizes the model's performance on the test set, showing correct and misclassified samples for each digit class.
 
+### Score summary on Test Set
+
+    |-----------------------------------------|  
+    |              SCORE SUMMARY              |  
+    |-----------------------------------------|  
+    |  Accuracy score:                 0.791  |  
+    |  Accuracy score weighted:        0.789  |  
+    |-----------------------------------------|  
+    |  Precision score weighted:       0.821  |  
+    |-----------------------------------------|  
+    |  Recall score weighted:          0.791  |  
+    |-----------------------------------------|  
+    |  F1-score weighted:              0.796  |  
+    |-----------------------------------------|  
+
 ## Features
 - Pure C++23 implementation
 - Python 3.12 script for visualization and performance
