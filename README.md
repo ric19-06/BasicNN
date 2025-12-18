@@ -1,7 +1,6 @@
 # BasicNN
 
-<img src="https://img.shields.io/badge/C++-23-blue?logo=c%2B%2B&logoColor=white" alt="C++23" height="25"> 
-<img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" alt="Python 3.12" height="25">
+<img src="https://img.shields.io/badge/C++-23-blue?logo=c%2B%2B&logoColor=white" alt="C++23" height="25"> <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" alt="Python 3.12" height="25">
 
 This repository contains an educational implementation of a neural network written from scratch in C++ with minimal dependencies.
 
